@@ -2,4 +2,4 @@
 
 ## [Introdução a Bancos de Dados e Linguagem SQL](https://www.eia.ai/view/courses/introducao-a-bancos-de-dados-e-linguagem-sql) - Revisão
 
-[Ranking](https://db-engines.com/en/ranking)
+[Ranking de DB](https://db-engines.com/en/ranking)
